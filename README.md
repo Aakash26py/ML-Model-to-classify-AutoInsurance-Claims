@@ -19,7 +19,7 @@ that traditional business analytics-based algorithms are now limited in their ab
 differentiate among customers based on subtle parameters.
 </p>
 <h2>Dataset Description</h2>
-<a href="https://drive.google.com/file/d/1mQmgnQpTO5x9WjR26z4J5DL8GAXzSRA5/view?usp=sharing" target="_blank"><h6>Download Dataset here</h6></a>
+<h6><a href="https://drive.google.com/file/d/1mQmgnQpTO5x9WjR26z4J5DL8GAXzSRA5/view?usp=sharing" target="_blank">Download Dataset here</a></h6>
 <p>The project involves the use of a dataset with 600k training data and 57 features/data.</p>
 <h2>Use Cases</h2>
 <h5>The model shall mainly support the following use cases:</h5>
